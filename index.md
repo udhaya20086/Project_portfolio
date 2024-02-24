@@ -1,6 +1,7 @@
-usemathjax: true
+
 ---
 title: Welcome to my blog
+usemathjax: true
 ---
 
 Hello
