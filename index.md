@@ -1,3 +1,4 @@
+usemathjax: true
 ---
 title: Welcome to my blog
 ---
