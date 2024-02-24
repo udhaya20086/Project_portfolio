@@ -11,7 +11,7 @@ The 1D supersonic nozzle flow equations in Conservative form are given below:
 
 1) Continuity equation:
 
-`(del(rho'A'))/(del(t'))+(del(rho'A'V'))/(del(x'))=0`
+$$(del(rho'A'))/(del(t'))+(del(rho'A'V'))/(del(x'))=0$$
 
 2) Momentum equation:
 
