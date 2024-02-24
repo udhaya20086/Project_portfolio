@@ -1,5 +1,5 @@
 ---
-usemathjax: true
+MathJax
 ---
 
 
