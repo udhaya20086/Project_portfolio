@@ -1,6 +1,4 @@
-
 ---
-layout: default
 title: My awesome page
 usemathjax: true
 ---
