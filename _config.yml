@@ -1,4 +1,5 @@
-theme: minimal-mistakes-jekyll
+remote_theme: sighingnow/jekyll-gitbook
+
 
 # Defaults 
  defaults:
