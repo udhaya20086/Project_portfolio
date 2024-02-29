@@ -5,4 +5,5 @@ layout: default
 
 Hello hello hello
 
-\\\\(\partial(rho) x = y^2 \\\\)
+\\\\(\frac{\partial \rho}{\partial x} = y^2 \\\\)
+
