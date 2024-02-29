@@ -1,10 +1,17 @@
 ---
-title: My awesome page
-usemathjax: true
 ---
 
-
-
+<head>
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$']]
+    }
+  };
+</script>
+<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+</head>
 
 Hello hello hello
 
