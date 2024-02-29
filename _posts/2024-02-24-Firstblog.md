@@ -4,5 +4,5 @@
 
 Hello hello hello
 
-$ delta (rho) $
+$$\partial(rho)$$
 $ x = y^2 $
