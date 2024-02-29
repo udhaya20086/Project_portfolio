@@ -1,4 +1,6 @@
-# Defaults
+theme: minima
+
+# Defaults 
  defaults:
      values:
        mathjax: true
