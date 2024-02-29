@@ -1,7 +1,2 @@
 remote_theme: sighingnow/jekyll-gitbook
 
-
-# Defaults 
- defaults:
-     values:
-       mathjax: true
