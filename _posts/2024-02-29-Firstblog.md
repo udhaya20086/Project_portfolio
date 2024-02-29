@@ -4,5 +4,5 @@
 
 Hello hello hello
 
-\frac{\partial \rho}{\partial x} = y^2 
+\\\\[ \frac{\partial \rho}{\partial x} = y^2 \\\\]
 
