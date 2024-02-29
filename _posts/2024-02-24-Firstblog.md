@@ -1,6 +1,14 @@
 ---
 ---
-
+<head>
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$']]
+    }
+  };
+</script>
+<head>
 
 Hello hello hello
 
