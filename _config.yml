@@ -1,5 +1,4 @@
-remote_theme: udhaya20086/math-minima
-plugins:
-  - jekyll-remote-theme
-
-
+# Defaults
+ defaults:
+     values:
+       mathjax: true
